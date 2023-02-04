@@ -1,5 +1,11 @@
+HEAD 
+
 1st file v1 
 
 1st file v2 
 
 1st file v3 - trying to break git brnaches algorithms 
+
+1st file v4 - second attempt trying to break git 
+
+TAIL
